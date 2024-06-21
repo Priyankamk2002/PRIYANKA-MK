@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankamk2002&show_icons=true&locale=en" alt="priyankamk2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankamk2002&" alt="priyankamk2002" /></p># PRIYANKA-MK
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankamk2002&" alt="priyankamk2002" /></p>
